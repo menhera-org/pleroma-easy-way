@@ -1,0 +1,28 @@
+{
+  "name": "pleroma-easy-way",
+  "version": "1.0.0",
+  "description": "Pleroma API wrapper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menhera-org/pleroma-easy-way.git"
+  },
+  "keywords": [
+    "pleroma",
+    "mastodon"
+  ],
+  "author": "Menhera.org developers",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/menhera-org/pleroma-easy-way/issues"
+  },
+  "homepage": "https://github.com/menhera-org/pleroma-easy-way#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "megalodon": "^3.3.2",
+    "uuid": "^8.3.1"
+  }
+}
